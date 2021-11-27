@@ -43,7 +43,7 @@ class checkpoint():
     def __init__(self, args):
         self.args = args
         self.ok = True
-        self.log = paddle.to_tensor([])
+        self.log = paddle.to_tensor(paddle.zeros((1, len(args.scale))))
         now = datetime.datetime.now().strftime('%Y-%m-%d-%H:%M:%S')
 
         if args.load == '.':
