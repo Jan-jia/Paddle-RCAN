@@ -44,7 +44,7 @@ https://github.com/Jan-jia/Paddle-RCAN
 
 # **三、数据集**
 
-训练集下载： [DIV2K dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/) ，解压到 `data/` 文件夹中，文件夹名为 `DIV2K`。
+训练集下载： [DIV2K dataset](https://aistudio.baidu.com/aistudio/datasetdetail/110995) ，解压到 `data/` 文件夹中。训练所需的文件夹为`DIV2K/DIV2K_train_HR`和`DIV2K/DIV2K_train_LR_bicubic`。
 
 测试集已整理好在 `data/benchmark/` 和 `Test_code/` 中 。
 
