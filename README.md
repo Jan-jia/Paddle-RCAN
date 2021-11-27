@@ -30,8 +30,8 @@ https://github.com/yulunzhang/RCAN
 
 #### **项目aistudio地址**
 
-https://github.com/Jan-jia/Paddle-RCAN
-
+https://aistudio.baidu.com/aistudio/projectdetail/3000561
+版本为Commit_3，运行`main.ipynb`即可开始训练。
 # 二、复现结果
 
 #### **指标（在set14上测试）**
